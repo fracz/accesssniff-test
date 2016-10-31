@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "access-sniff": "2.4.61"
+    "access-sniff": "2.4.7"
   }
 }
